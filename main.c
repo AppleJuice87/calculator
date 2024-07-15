@@ -12,7 +12,7 @@ int main() {
 // 뼈대 코드
 
 int add(int num1, int num2) {
-    //TODO: add
+    return num1 + num2;
 }
 
 int subtract(int num1, int num2) {
