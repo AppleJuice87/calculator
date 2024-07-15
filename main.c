@@ -6,7 +6,7 @@ int multiply(int num1, int num2);
 float divide(int num1, int num2);
 
 int main() {
-	// test caces
+	// test cases
 }
 
 // 뼈대 코드
