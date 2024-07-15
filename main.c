@@ -24,5 +24,5 @@ int multiply(int num1, int num2) {
 }
 
 float divide(int num1, int num2) {
-	//TODO: divide
+	return ((float) num1 / num2);
 }
