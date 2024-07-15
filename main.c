@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int add(int a, int b);
-int subtract(int a, int b);
-int multiply(int a, int b);
-float divide(int a, int b);
+int add(int num1, int num2);
+int subtract(int num1, int num2);
+int multiply(int num1, int num2);
+float divide(int num1, int num2);
 
 int main() {
 	// test caces
@@ -11,18 +11,18 @@ int main() {
 
 // 뼈대 코드
 
-int add(int a, int b) {
+int add(int num1, int num2) {
     //TODO: add
 }
 
-int subtract(int a, int b) {
+int subtract(int num1, int num2) {
     //TODO: subtract
 }
 
-int multiply(int a, int b) {
+int multiply(int num1, int num2) {
     //TODO: multiply
 }
 
-float divide(int a, int b) {
+float divide(int num1, int num2) {
 	//TODO: divide
 }
