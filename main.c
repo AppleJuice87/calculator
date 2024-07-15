@@ -6,12 +6,11 @@ int multiply(int num1, int num2);
 float divide(int num1, int num2);
 
 int main() {
-	// test cases
+	// 충돌 유도를 위해 아래 default 문장 뒤에 아무 단어나 추가해 주세요.
+	printf("여기 default 문장이 있습니다.")
 }
 
 // 뼈대 코드
-printf("input");
-scanf("%d %d", &num1 ,&num2);
 
 int add(int num1, int num2) {
     return num1 + num2;
