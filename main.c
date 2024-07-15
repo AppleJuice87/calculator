@@ -10,7 +10,7 @@ int main() {
 }
 
 // 뼈대 코드
-printf("수식을 입력하세요. ");
+printf("input");
 scanf("%d %d", &num1 ,&num2);
 
 int add(int num1, int num2) {
