@@ -7,7 +7,7 @@ float divide(int num1, int num2);
 
 int main() {
 	// 충돌 유도를 위해 아래 default 문장 뒤에 아무 단어나 추가해 주세요.
-	printf("여기 default 문장이 있습니다.");
+	printf("여기 default 문장이 있습니다.!!!!");
 }
 
 // 뼈대 코드
