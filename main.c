@@ -5,6 +5,7 @@
 ************/
 
 // some-feature 변경사항입니다.
+// some-feature 두 번째 변경사항입니다.
 
 #include <stdio.h>
 
