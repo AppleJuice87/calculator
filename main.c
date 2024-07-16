@@ -4,6 +4,7 @@
  * 2024-07-15 
 ************/
 
+// some-feature 변경사항입니다.
 
 #include <stdio.h>
 
